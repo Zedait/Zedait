@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zedait</h1>
+<h1 align="center">Zedait</h1>
 <h3 align="center">A backend developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedait&label=Profile%20views&color=0e75b6&style=flat" alt="zedait" /> </p>
